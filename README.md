@@ -136,7 +136,7 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_1.png)
+![png](README\output_8_1.png)
 
 
     You look like a  ... 
@@ -146,7 +146,7 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_3.png)
+![png](/README/output_8_3.png)
 
 
     Hello, human!
