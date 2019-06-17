@@ -136,7 +136,7 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](README\output_8_1.png)
+![png](/README/output_8_1.png)
 
 
     You look like a  ... 
@@ -153,7 +153,7 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_5.png)
+![png](/README/output_8_5.png)
 
 
     You look like a  ... 
@@ -163,14 +163,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_7.png)
+![png](/README/output_8_7.png)
 
 
     Hello, human!
     
 
 
-![png](output_8_9.png)
+![png](/README/output_8_9.png)
 
 
     You look like a  ... 
@@ -180,14 +180,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_11.png)
+![png](/README/output_8_11.png)
 
 
     Hello, human!
     
 
 
-![png](output_8_13.png)
+![png](/README/output_8_13.png)
 
 
     You look like a  ... 
@@ -197,14 +197,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_15.png)
+![png](/README/output_8_15.png)
 
 
     Hello, human!
     
 
 
-![png](output_8_17.png)
+![png](/README/output_8_17.png)
 
 
     You look like a  ... 
@@ -214,14 +214,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_19.png)
+![png](/README/output_8_19.png)
 
 
     Hello, human!
     
 
 
-![png](output_8_21.png)
+![png](/README/output_8_21.png)
 
 
     You look like a  ... 
@@ -231,14 +231,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_23.png)
+![png](/README/output_8_23.png)
 
 
     A dog is detected ...
     
 
 
-![png](output_8_25.png)
+![png](/README/output_8_25.png)
 
 
     The predicted breeds is Bullmastiff, with an associated probability of %50.58:
@@ -246,14 +246,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_27.png)
+![png](/README/output_8_27.png)
 
 
     A dog is detected ...
     
 
 
-![png](output_8_29.png)
+![png](/README/output_8_29.png)
 
 
     The predicted breeds is Mastiff, with an associated probability of %34.17:
@@ -261,14 +261,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_31.png)
+![png](/README/output_8_31.png)
 
 
     A dog is detected ...
     
 
 
-![png](output_8_33.png)
+![png](/README/output_8_33.png)
 
 
     The predicted breeds is Bullmastiff, with an associated probability of %39.82:
@@ -276,14 +276,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_35.png)
+![png](/README/output_8_35.png)
 
 
     A dog is detected ...
     
 
 
-![png](output_8_37.png)
+![png](/README/output_8_37.png)
 
 
     The predicted breeds is Bullmastiff, with an associated probability of %52.15:
@@ -291,14 +291,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_39.png)
+![png](/README/output_8_39.png)
 
 
     A dog is detected ...
     
 
 
-![png](output_8_41.png)
+![png](/README/output_8_41.png)
 
 
     The predicted breeds is Mastiff, with an associated probability of %46.21:
@@ -306,14 +306,14 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_43.png)
+![png](/README/output_8_43.png)
 
 
     A dog is detected ...
     
 
 
-![png](output_8_45.png)
+![png](/README/output_8_45.png)
 
 
     The predicted breeds is Mastiff, with an associated probability of %74.18:
@@ -321,7 +321,7 @@ The algorithm accepts a file path to an image and first determines whether the i
     
 
 
-![png](output_8_47.png)
+![png](/README/output_8_47.png)
 
 
 
